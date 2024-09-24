@@ -39,7 +39,7 @@ This project implements a roller coaster simulation using Catmull-Rom splines al
 
 ## How to Run This Project
 1. Compile the program using the provided Makefile or your preferred setup.
-2. Launch the executable to start the simulation.
+2. Launch the executable to start the simulation using command like "./hw2 splines/rollerCoaster.sp"
 3. Use keyboard and mouse controls to explore the scene and experience the roller coaster from a first-person perspective.
 
 For more details on the implementation and additional customization, please refer to the included source code comments and shader files.
